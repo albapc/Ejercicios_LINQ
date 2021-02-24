@@ -1,0 +1,7 @@
+C:\Users\alba.perezcesar\source\repos\Ejercicios_LINQ\Ejercicios_LINQ\bin\Debug\Ejercicios_LINQ.exe.config
+C:\Users\alba.perezcesar\source\repos\Ejercicios_LINQ\Ejercicios_LINQ\bin\Debug\Ejercicios_LINQ.exe
+C:\Users\alba.perezcesar\source\repos\Ejercicios_LINQ\Ejercicios_LINQ\bin\Debug\Ejercicios_LINQ.pdb
+C:\Users\alba.perezcesar\source\repos\Ejercicios_LINQ\Ejercicios_LINQ\obj\Debug\Ejercicios_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\alba.perezcesar\source\repos\Ejercicios_LINQ\Ejercicios_LINQ\obj\Debug\Ejercicios_LINQ.exe
+C:\Users\alba.perezcesar\source\repos\Ejercicios_LINQ\Ejercicios_LINQ\obj\Debug\Ejercicios_LINQ.pdb
+C:\Users\alba.perezcesar\source\repos\Ejercicios_LINQ\Ejercicios_LINQ\obj\Debug\Ejercicios_LINQ.csprojAssemblyReference.cache
